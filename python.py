@@ -6,3 +6,4 @@ Created on Thu Jan 30 16:35:38 2025
 """
 
 print("hello")
+print("t'es guez")
